@@ -2,7 +2,7 @@
 
 **Plain Wallpaper Generator** is a simple yet powerful Python-based tool that lets you create **minimalist, high-resolution wallpapers** in **any color** you want, tailored to your phone’s exact screen size.
 
-![Sample Wallpaper](path/to/your/image.png)
+![Sample Wallpaper](/Users/jayomoza/Downloads/plain_wallpaper.png)
 
 ---
 
